@@ -2,6 +2,6 @@
   "kids": [
     { "id": 1, "name": "Bobby", "nice":"true" },
     { "id": 2, "name": "Suzy", "nice":"true"  },
-    { "id": 3, "name": "Jonny", "nice":"true"  }
+    { "id": 3, "name": "Jonny", "nice":"false"  }
   ]
 }
